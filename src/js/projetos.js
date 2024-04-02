@@ -1,5 +1,6 @@
 function projetos(section) {
-  section.innerHTML = `<header>
+  section.innerHTML = 
+  `<header>
       <h2>Módulos Acadêmicos</h2>
     </header>
     <div class="content">
@@ -9,11 +10,11 @@ function projetos(section) {
           <h3>Módulos PI1</h3>
           <div class="img-wrapper">
             <img
-              src="/src/img/Módulos-Acadêmicos/Módulo PI1.png"
+              src="/src/img/Módulo PI1.png"
               alt="Imagem do projeto."
             />
             <div class="buttons">
-              <a href="https://github.com/asolipa365/" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/Programador-de-Informatica" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -53,11 +54,11 @@ function projetos(section) {
           <h3>Módulos PI2</h3>
           <div class="img-wrapper">
             <img
-            src="/src/img/Módulos-Acadêmicos/Módulo PI2.png"
+            src="/src/img/Módulo PI2.png"
             alt="Imagem do projeto."
             />
             <div class="buttons">
-              <a href="https://github.com/asolipa365/" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/Programador-de-Informatica" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -97,11 +98,11 @@ function projetos(section) {
           <h3>Módulos PI3</h3>
           <div class="img-wrapper">
             <img
-            src="/src/img/Módulos-Acadêmicos/Módulo PI3.png"
+            src="/src/img/Módulo PI3.png"
             alt="Imagem do projeto."
             />
             <div class="buttons">
-              <a href="https://github.com/asolipa365/" target="_blank" title="Repositório no Github">
+              <a href="https://github.com/Programador-de-Informatica" target="_blank" title="Repositório no Github">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   viewBox="0 0 24 24"
@@ -141,11 +142,11 @@ function projetos(section) {
         <h3>Certificações</h3>
         <div class="img-wrapper">
           <img
-            src="/src/img/Módulos-Acadêmicos/Certificações.png"
+            src="/src/img/Certificações.png"
             alt="Imagem do projeto."
           />
           <div class="buttons">
-            <a href="https://github.com/asolipa365/" target="_blank" title="Repositório no Github">
+            <a href="https://github.com/Programador-de-Informatica" target="_blank" title="Repositório no Github">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 24 24"
@@ -185,11 +186,11 @@ function projetos(section) {
       <h3>Projetos</h3>
       <div class="img-wrapper">
         <img
-          src="/src/img/Módulos-Acadêmicos/Projetos.png"
+          src="/src/img/Projetos.png"
           alt="Imagem do projeto."
         />
         <div class="buttons">
-          <a href="https://github.com/asolipa365/" target="_blank" title="Repositório no Github">
+          <a href="https://github.com/Programador-de-Informatica" target="_blank" title="Repositório no Github">
             <svg
               xmlns="http://www.w3.org/2000/svg"
               viewBox="0 0 24 24"
@@ -229,11 +230,11 @@ function projetos(section) {
     <h3>Trabalhos</h3>
     <div class="img-wrapper">
       <img
-        src="/src/img/Módulos-Acadêmicos/Trabalhos.png"
+        src="/src/img/Trabalhos.png"
         alt="Imagem do projeto."
       />
       <div class="buttons">
-        <a href="https://github.com/asolipa365/" target="_blank" title="Repositório no Github">
+        <a href="https://github.com/Programador-de-Informatica" target="_blank" title="Repositório no Github">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             viewBox="0 0 24 24"
