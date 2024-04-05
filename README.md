@@ -1,14 +1,14 @@
 <h1 align="center">Portfólio - António Solipa 💻</h1>
 
-![Imagem do projeto finalizado](#)
+![Imagem do projeto finalizado](/src/img/README.md.png)
 
-<h4 align="center"><a href="#">Confira o projeto aqui</a></h4>
+<h4 align="center"><a href="https://portfolio-epf.netlify.app/"> -> Confira o projeto aqui.</a></h4>
 
 ---
 
 ## 💻 Sobre
 
-Projeto feito no intuito de me apresentar, como desenvolvedor web front-end.
+Projeto feito no intuito de apresentar todos os meus trabalhos e projetos acadêmicos, realizados na escola profissional do fundão.
 
 ## 🤯 O site é composto por:
 
@@ -40,17 +40,27 @@ Neste projeto apliquei os seguintes pontos:
 
 ---
 
+## 🏆 Licença
+
+The [MIT License](/LICENSE).
+
+## 🏆 CONTRIBUTING
+
+The [CONTRIBUTING](/CONTRIBUTING.md).
+
+## 🏆 CODE OF CONDUCT
+
+The [CODE OF CONDUCT](/CODE_OF_CONDUCT.md).
+
+---
+
 <table>
   <tr>
     <td>
       <img src="https://github.com/asolipa365.png" width="100px" />
     </td>
     <td>
-      Feito por <a href="https://github.com/asolipa365">António Solipa.</a> 🙋🏿
+      Feito por <a href="https://github.com/asolipa365">António Solipa (asolipa365)</a>.
     </td>
   </tr>
 </table>
-
-## 🏆 Licença
-
-The [MIT License](./LICENSE).

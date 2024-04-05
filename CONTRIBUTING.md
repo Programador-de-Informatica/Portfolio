@@ -15,7 +15,7 @@ Ao contribuir ou interagir neste projeto, pedimos que utilize exclusivamente o *
 
 ### Código de Conduta
 
-Os participantes devem aderir ao nosso Código de Conduta. Leia o [texto completo](CODE_OF_CONDUCT.md) para entender as expectativas de conduta. Ao participar deste projeto, você concorda em seguir essas diretrizes.
+Os participantes devem aderir ao nosso Código de Conduta. Leia o [texto completo](/CODE_OF_CONDUCT.md) para entender as expectativas de conduta. Ao participar deste projeto, você concorda em seguir essas diretrizes.
 
 ## Como Contribuir
 
